@@ -1,3 +1,3 @@
 # LabExpress
 
-Sample layout built with Bootstrap 4 beta 2.
+Sample full responsive website built with Bootstrap 4 beta 2.
