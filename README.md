@@ -1,3 +1,5 @@
 # LabExpress
 
-Sample full responsive website built with Bootstrap 4 beta 2.
+Responsive website made with Bootstrap 4 beta 2.
+
+### [Live Demo](https://bluecondor.github.io/LabExpress/)
